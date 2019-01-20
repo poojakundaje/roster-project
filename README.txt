@@ -9,6 +9,5 @@ LinkedListNode- methods to create a linked list node
 DoublyLinkedList- methods to create a doubly linked list 
 DoublyLinkedListNode- methods to create a doubly linked list node 
 student- class with a main method which creates a roster program using doubly linked lists 
-assignment1 data- my list of names to input into the roster program 
 DoublyLinkedListTester- tests the method in doubly linked list class
 DoublyLinkedListNodeTester- tests the method in doubly linked list node class
